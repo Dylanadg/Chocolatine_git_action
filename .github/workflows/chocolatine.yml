@@ -1,8 +1,8 @@
 name: Chocolatine
 
 env:
-    MIRROR_URL: "git@github.com:EpitechPromo2028/B-PSU-200-PAR-2-1-minishell2-dylan.adghar.git"
-    EXECUTABLES: "mysh"
+    MIRROR_URL: ""
+    EXECUTABLES: "test_choco"
 
 on:
     push:
